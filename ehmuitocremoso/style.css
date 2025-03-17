@@ -27,7 +27,7 @@ em strong{
 }
 
 
-img{
+a img{
     width: 1900px;
     margin-left: 0,2%;
 }
@@ -37,3 +37,5 @@ img{
     font-style: italic;
     background: #FFFFFF;
 }
+
+
