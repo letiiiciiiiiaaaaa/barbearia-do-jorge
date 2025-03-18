@@ -1,5 +1,5 @@
 body{
-    background: #CCCCCC;
+    background: #FFFFFF;
     font-size: 20px;
 }
 
@@ -15,12 +15,13 @@ body{
 }
 
 
-h1{
+.titulo-principal{
+    padding-left: 20px;
+}
+
+
+.titulo-centralizado{
     text-align: center;
-    height: 150px;
-    border: 10px solid #000000;
-    padding-top: 20px;
-    margin: 40px;
 }
 
 
@@ -42,11 +43,6 @@ em strong{
 .beneficios{
     background: #FFFFFF;
     padding: 20px;
-}
-
-
-h2{
-    text-align: center;
 }
 
 
