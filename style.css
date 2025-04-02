@@ -247,7 +247,7 @@ td, th{
 }
 
 
-itens :first-child{
+.itens :first-child{
     font-weight: bold;
 }
 
