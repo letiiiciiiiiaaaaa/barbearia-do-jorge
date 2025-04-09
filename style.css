@@ -162,13 +162,11 @@ table{
     margin: 20px 0 40px;
 }
 
-
 thead{
     background: #555555;
     color: white;
     font-weight: bold;
 }
-
 
 td, th{
     border: 1px solid #000000;
@@ -259,9 +257,6 @@ td, th{
 }
 
 
-.imagem-beneficios{
-    width: 60%;
-}
 .itens{
     line-height: 1.5;
 }
@@ -279,6 +274,14 @@ td, th{
 
 .imagem-beneficios{
     width: 60%;
+    opacity: 1;
+    transition: 400ms;
+    box-shadow: 10px 10px 10px #000000;
+}
+
+
+.imagem-beneficios:hover{
+    opacity: 0.3;
 }
 
 
